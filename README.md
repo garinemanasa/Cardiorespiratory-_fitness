@@ -47,5 +47,5 @@ The dataset contains cardiorespiratory measurements from graded cycle ergometer 
 ## Conclusion
 The comprehensive analysis of the athletes' cardiorespiratory data reveals significant differences across sports and individual participants. While triathlon athletes demonstrated the highest VO2max, their endurance capacities varied. A consistent relationship was observed between power output, weight, and heart rate in many participants. Despite variations, a majority of the participants showed room for improvement in their overall cardiovascular fitness, emphasizing the need for personalized training and recovery plans.
 
-[View Interactive Dashboard](URL_TO_DASHBOARD)
+[View Interactive Dashboard](https://public.tableau.com/app/profile/manasa.garine/viz/CardioRespiratoryFitness_17422323855140/Story1?publish=yes)
 
